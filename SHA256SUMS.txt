@@ -1,0 +1,5 @@
+72e8397de6b6245012029ad1137dcb2dbc5c42f2292428b0733381b4913786d9  out/target/product/manaus/EvolutionX-16.0-20261017-manaus-11.12-Unofficial.zip
+620e041ae59d752e9c229e7ba5f519243d5ab18b5fcd5ea4d0560d99810c291e  out/target/product/manaus/boot.img
+5bb615ecc253a31d614f69ecb99fd0c074de807c6ce9772bbd1e81ed5039a1c1  out/target/product/manaus/vendor_boot.img
+3f592854fd8c2cc9b1b090486fc927c4e6a4ece777a3ad94df75ad7e8e6a9812  out/target/product/manaus/vbmeta.img
+76bb4e848c9e01362557a0b42bd3dbd324627cb346b41720a55c25b5ef08b1a7  out/target/product/manaus/dtbo.img
